@@ -1,0 +1,48 @@
+
+
+.button {
+  background-color:rgb(201,194,194);
+  border: none;
+  color: white;
+ box-shadow: 0px 3px grey ;
+  text-align: center;
+  text-decoration: none;
+  
+  cursor: pointer;
+  border-radius: 12px;
+}
+  .topnav {
+    overflow: hidden;
+    background-color:white;
+    
+     }
+  
+     .topnav a {
+      float: left;
+      color:black;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      
+      border-radius: 12px;
+    }
+ 
+  
+  .topnav a.active {
+    background-color:grey;
+    color: white;
+  }
+  .topnav-right {
+    float: right;
+  }
+  .profile{
+    top:50;
+    position: absolute;
+    left: 0;
+  }
+  .vprofile{
+    margin-left:350;
+    margin-top:40;
+  }
+  
